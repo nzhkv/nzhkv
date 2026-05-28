@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm an iOS Developer with 4+ years of commercial experience building mobile applications from idea and design to App Store release.
+I'm an iOS Developer with 5+ years of commercial experience building mobile applications from idea and design to App Store release.
 
 I focus on:
 
@@ -114,15 +114,21 @@ My typical responsibilities included:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzhkv&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nzhkv&show_icons=true&theme=github_dark&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ynzhkv&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzhkv&theme=github-dark-blue&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzhkv&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzhkv&layout=compact&theme=github_dark&hide_border=true" />
+
 </p>
 
 ---
