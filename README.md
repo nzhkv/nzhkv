@@ -114,21 +114,15 @@ My typical responsibilities included:
 ## GitHub Stats
 
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=nzhkv&show_icons=true&theme=github_dark&hide_border=true" />
-
 </p>
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzhkv&theme=github-dark-blue&hide_border=true" />
-
 </p>
 
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzhkv&layout=compact&theme=github_dark&hide_border=true" />
-
 </p>
 
 ---
